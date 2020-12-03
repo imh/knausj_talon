@@ -36,4 +36,10 @@ suspend:
 resume:
   insert("fg")
   key(enter)
+jupiter notebook:
+  insert("jupyter-notebook")
+  key(enter)
+Igor sidecar restart:
+  insert("igor sidecar restart")
+  key(enter)
 
